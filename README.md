@@ -5,4 +5,4 @@ I'm student a student in the field of fullstack development :construction_worker
 
 #### Contacts
 - Email: marcopedev@gmail.com
-- LinkedIn: linked.com/in/dev-marcopereira
+- LinkedIn: [linked.com/in/dev-marcopereira](https://www.linkedin.com/in/dev-marcopereira)
